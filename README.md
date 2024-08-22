@@ -1,0 +1,1 @@
+Hi! I made this Dumbbel 3D Model Project. I made it on Autodesk Fusion 360 and I'm sharing in this repo a .STL file where you can open it and do whatever you want. You can open it with Solidworks, ThinkerCAD, Meshmixer and other apps.
